@@ -1,4 +1,8 @@
-/*
+/* 
+
+This file plays around with fs and file methods. 
+
+SEE COMMERECE AND UTILS FOR SOLUTIION TO BELOW
 
 You are running an e-commerce platform. 
 For every user that shops on your platform, 
@@ -15,14 +19,6 @@ the total price, any discount amount,
 and the discounted price for each purchase
 Make sure that the same program can be 
 reused for multiple users without any modifications.
-*/
-
-// ############# WHERE AM I
-
-/*
-need to export the result
-need to pull that data into the index file
-need to be able to run this with any file of data 
 */
 
 // FILE SETUP

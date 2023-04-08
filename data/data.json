@@ -1,5 +1,196 @@
-[
-    {"name": "Shirt", "price": 20, "quantity": 2},
-    {"name": "Jeans", "price": 40, "quantity": 1},
-    {"name": "Socks", "price": 5, "quantity": 3}
+[{
+        "name": "Shirt",
+        "price": 20,
+        "quantity": 2
+    },
+    {
+        "name": "Jeans",
+        "price": 40,
+        "quantity": 1
+    },
+    {
+        "name": "Socks",
+        "price": 5,
+        "quantity": 3
+    },
+    {
+        "name": "Sweater",
+        "price": 35,
+        "quantity": 4
+    },
+    {
+        "name": "T-Shirt",
+        "price": 10,
+        "quantity": 2
+    },
+    {
+        "name": "Jeans",
+        "price": 50,
+        "quantity": 1
+    },
+    {
+        "name": "Hoodie",
+        "price": 45,
+        "quantity": 3
+    },
+    {
+        "name": "Jacket",
+        "price": 80,
+        "quantity": 1
+    },
+    {
+        "name": "Socks",
+        "price": 5,
+        "quantity": 3
+    },
+    {
+        "name": "Sneakers",
+        "price": 65,
+        "quantity": 1
+    },
+    {
+        "name": "Dress",
+        "price": 60,
+        "quantity": 1
+    },
+    {
+        "name": "Blouse",
+        "price": 30,
+        "quantity": 2
+    },
+    {
+        "name": "Shorts",
+        "price": 25,
+        "quantity": 2
+    },
+    {
+        "name": "Skirt",
+        "price": 40,
+        "quantity": 1
+    },
+    {
+        "name": "Pants",
+        "price": 55,
+        "quantity": 1
+    },
+    {
+        "name": "Hat",
+        "price": 15,
+        "quantity": 2
+    },
+    {
+        "name": "Belt",
+        "price": 20,
+        "quantity": 1
+    },
+    {
+        "name": "Boots",
+        "price": 75,
+        "quantity": 1
+    },
+    {
+        "name": "Sunglasses",
+        "price": 25,
+        "quantity": 1
+    },
+    {
+        "name": "Gloves",
+        "price": 10,
+        "quantity": 2
+    },
+    {
+        "name": "Scarf",
+        "price": 20,
+        "quantity": 1
+    },
+    {
+        "name": "Shirt",
+        "price": 30,
+        "quantity": 2
+    },
+    {
+        "name": "Coat",
+        "price": 90,
+        "quantity": 1
+    },
+    {
+        "name": "Raincoat",
+        "price": 70,
+        "quantity": 1
+    },
+    {
+        "name": "Pajamas",
+        "price": 40,
+        "quantity": 1
+    },
+    {
+        "name": "Robe",
+        "price": 50,
+        "quantity": 1
+    },
+    {
+        "name": "Turtleneck",
+        "price": 25,
+        "quantity": 2
+    },
+    {
+        "name": "Sweatpants",
+        "price": 30,
+        "quantity": 2
+    },
+    {
+        "name": "Tank Top",
+        "price": 15,
+        "quantity": 2
+    },
+    {
+        "name": "Underwear",
+        "price": 5,
+        "quantity": 5
+    },
+    {
+        "name": "Leggings",
+        "price": 20,
+        "quantity": 1
+    },
+    {
+        "name": "Bathing Suit",
+        "price": 45,
+        "quantity": 1
+    },
+    {
+        "name": "Tie",
+        "price": 20,
+        "quantity": 1
+    },
+    {
+        "name": "Joggers",
+        "price": 35,
+        "quantity": 2
+    },
+    {
+        "name": "Blazer",
+        "price": 70,
+        "quantity": 1
+    },
+    {
+        "name": "Dress Shoes",
+        "price": 55,
+        "quantity": 1
+    },
+    {
+        "name": "Sandals",
+        "price": 25,
+        "quantity": 1
+    },
+    {
+        "name": "Slippers",
+        "price": 15,
+        "quantity": 1
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 40,
+        "quantity": 3
+    }
 ]
